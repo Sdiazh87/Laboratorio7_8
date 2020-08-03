@@ -1,0 +1,12 @@
+C:\Users\papi6\Desktop\LABORATORIO 7_8\Laboratorio7_8_SDH\CapaDatos\bin\Debug\CapaDatos.dll.config
+C:\Users\papi6\Desktop\LABORATORIO 7_8\Laboratorio7_8_SDH\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\papi6\Desktop\LABORATORIO 7_8\Laboratorio7_8_SDH\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\papi6\Desktop\LABORATORIO 7_8\Laboratorio7_8_SDH\CapaDatos\bin\Debug\EntityFramework.dll
+C:\Users\papi6\Desktop\LABORATORIO 7_8\Laboratorio7_8_SDH\CapaDatos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\papi6\Desktop\LABORATORIO 7_8\Laboratorio7_8_SDH\CapaDatos\bin\Debug\EntityFramework.xml
+C:\Users\papi6\Desktop\LABORATORIO 7_8\Laboratorio7_8_SDH\CapaDatos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\papi6\Desktop\LABORATORIO 7_8\Laboratorio7_8_SDH\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+C:\Users\papi6\Desktop\LABORATORIO 7_8\Laboratorio7_8_SDH\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\papi6\Desktop\LABORATORIO 7_8\Laboratorio7_8_SDH\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\papi6\Desktop\LABORATORIO 7_8\Laboratorio7_8_SDH\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\papi6\Desktop\LABORATORIO 7_8\Laboratorio7_8_SDH\CapaDatos\obj\Debug\CapaDatos.pdb
